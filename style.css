@@ -9,3 +9,10 @@ display: flex;
 justify-content: center;
 
 }
+
+body h3{
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    
+    }
