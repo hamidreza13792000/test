@@ -22,3 +22,10 @@ body h3{
         justify-content: center;
         
         }
+
+        div [class="carousel-item active"] img{
+
+       width: 100vh;
+       height: 100vh;
+
+        }
